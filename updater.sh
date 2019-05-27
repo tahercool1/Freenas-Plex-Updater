@@ -1,5 +1,6 @@
 cd /usr/local/share/
-mv plexmediaserver plexmediaserver-old-$(date -d "today" +"%Y%m%d%H%M")
+set now=`date +%Y-%m-%d.%H:%M:%S`
+mv plexmediaserver plexmediaserver-old-$now
 wget https://downloads.plex.tv/plex-media-server-new/1.15.6.1079-78232c603/freebsd/PlexMediaServer-1.15.6.1079-78232c603-FreeBSD-amd64.tar.bz2
 tar -xvf PlexMediaServer-1.15.6.1079-78232c603-FreeBSD-amd64.tar.bz2
 rm PlexMediaServer-1.15.6.1079-78232c603-FreeBSD-amd64.tar.bz2
