@@ -2,7 +2,7 @@
 
 ## Instructions
 1) Open your server shell
-![Instructions](https://raw.githubusercontent.com/Taherm789/Freenas-Plex-Updater/master/1.png)
+![Instructions](https://raw.githubusercontent.com/Taherm789/Freenas-Plex-Updater/master/Instructions.png)
 
 2) Install wget if not installed `pkg install wget`
 
