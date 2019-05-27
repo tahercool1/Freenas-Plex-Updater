@@ -1,5 +1,7 @@
 # Plex Media Server Updater for Freenas
 
+Updated to version `1.15.6.1079`
+
 ## Instructions
 1) Open your server shell
 ![Instructions](https://raw.githubusercontent.com/Taherm789/Freenas-Plex-Updater/master/Instructions.png)
