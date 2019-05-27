@@ -1,3 +1,5 @@
+#!/bin/csh
+
 cd /usr/local/share/
 wget https://downloads.plex.tv/plex-media-server-new/1.15.6.1079-78232c603/freebsd/PlexMediaServer-1.15.6.1079-78232c603-FreeBSD-amd64.tar.bz2
 tar -xvf PlexMediaServer-1.15.6.1079-78232c603-FreeBSD-amd64.tar.bz2
