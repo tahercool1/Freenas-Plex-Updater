@@ -1,6 +1,6 @@
 # Plex Media Server Updater for Freenas
 
-Updated to version `1.15.6.1079`
+Updated to version `1.15.8.1198`
 
 ## Instructions
 1) Open your jail shell
